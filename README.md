@@ -1,6 +1,6 @@
 ### Hi there, Lucas here 👋
 
-- 🔭 I’m currently <strong>working</strong> on ... writing to my Devto page and as volunteer mentor at [Rocketseat](https://www.rocketseat.com.br) community.
+- 🔭 I’m currently <strong>working</strong> on ... writing to my [Devto](https://dev.to/luskafaria) page and as volunteer mentor at [Rocketseat](https://www.rocketseat.com.br) community.
 - 🌱 I’m currently <strong>learning</strong> ... Typescript, NextJS
 - 👯 I’m looking to <strong>collaborate</strong> on ... ReactJS
 - 🤔 I’m looking for <strong>help with</strong> ... Typescript, NextJS
